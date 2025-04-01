@@ -1,0 +1,15 @@
+{
+  "name": "sindela/market_semestralka",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jiří Šindela",
+      "email": "sindela.jiri@gmail.com"
+    }
+  ],
+  "require": {
+    "facebook/graph-sdk": "^5.1"
+  }
+}
