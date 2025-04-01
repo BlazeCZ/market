@@ -1,0 +1,15 @@
+.navbar {
+    border-radius: 0;
+}
+.jumbotron {
+    margin-bottom: 0;
+    background-color: lightgray;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    margin-bottom: 0;
+}
